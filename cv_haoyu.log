@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.30)  27 OCT 2023 21:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.22)  17 JAN 2024 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -332,10 +332,11 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 14--14
  []
 
 (./doc/interest.tex) (./doc/education.tex) (./doc/experience.tex)
-(./doc/award.tex) (./doc/publication.tex [1
+(./doc/award.tex [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2
+al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./doc/
+publication.tex [2] [3
 
 ]
 Overfull \hbox (4.33968pt too wide) in paragraph at lines 138--139
@@ -349,13 +350,13 @@ Overfull \hbox (7.7522pt too wide) in paragraph at lines 155--157
 -sign Au-toma-tion Con-fer-ence (DAC),
  []
 
-[3] [4]) (./doc/service.tex) (./doc/skill.tex) [5] (./cv_haoyu.aux)
+[4] [5]) (./doc/service.tex) (./doc/skill.tex) [6] (./cv_haoyu.aux)
 Package rerunfilecheck Info: File `cv_haoyu.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9610 strings out of 476025
- 150835 string characters out of 5790017
+ 9611 strings out of 476025
+ 150841 string characters out of 5790016
  1864388 words of memory out of 5000000
  29952 multiletter control sequences out of 15000+600000
  514205 words of font info for 38 fonts, out of 8000000 for 9000
@@ -368,10 +369,10 @@ usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on cv_haoyu.pdf (5 pages, 105987 bytes).
+Output written on cv_haoyu.pdf (6 pages, 106338 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 71 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
